@@ -1,2 +1,2 @@
-# GPPB2023
-Global Power Platform Bootcamp 2023
+# GPPB2023PL
+Global Power Platform Bootcamp 2023 PL
